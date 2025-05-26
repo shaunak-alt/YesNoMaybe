@@ -26,3 +26,22 @@ To run **YesNoMaybe** locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/tech-savvy1/YesNoMaybe.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd YesNoMaybe
+   
+3. Install the dependencies: 
+   ```bash
+   npm install
+
+5. Run the development server:
+   ```bash
+   npm run serve
+
+6. Open your browser and go to http://localhost:8080
+
+🧩 Built With
+ - Vue.js – JavaScript framework
+ - Netlify – Hosting
+ - Flat Icons – Icons
